@@ -1,4 +1,4 @@
-# Desafio-HTML-Dio.me
-Neste desafio coloquei em prática Tags aprendidas.
+# Projeto-HTML modulo 1-Dio.me
+Neste projeto coloquei em prática Tags aprendidas.
 
 
